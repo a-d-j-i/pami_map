@@ -1,0 +1,19 @@
+{
+  "name": "NodeJsApplication",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "adji",
+  "contributors": [],
+  "dependencies": {
+    "batch-geocoder": "^0.2.5",
+    "cheerio": "^0.22.0",
+    "googlemaps": "^1.12.0",
+    "request": "^2.83.0"
+  }
+}
