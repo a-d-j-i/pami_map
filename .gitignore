@@ -1,0 +1,6 @@
+.idea
+node_modules
+
+# in this project we don't care
+package-lock.json
+
