@@ -13,7 +13,11 @@
   "dependencies": {
     "batch-geocoder": "^0.2.5",
     "cheerio": "^0.22.0",
+    "geobatch": "^1.4.3",
+    "geocoder-free": "^0.1.0",
     "googlemaps": "^1.12.0",
-    "request": "^2.83.0"
+    "node-fetch": "^2.6.0",
+    "request": "^2.83.0",
+    "sqlite": "^3.0.3"
   }
 }
